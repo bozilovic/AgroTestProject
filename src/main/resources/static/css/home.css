@@ -1,0 +1,29 @@
+body {
+	background: url("../images/back.jpg");
+	background-repeat: no-repeat;
+  	background-size: 100%;
+}
+
+.frame {
+	margin: auto;
+	border-radius: 1em;
+	width: 80%;
+	height: 200px;
+}
+
+#acc_table {
+	background-color: rgba(0,20,80, 0.5);
+	color: white;
+}
+
+#welcome_title {
+	text-align: center;
+	font-size: 3em;
+	color: rgba(0,20,80,1);
+}
+
+a:link, a:hover, a:visited, a:active {
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+}
